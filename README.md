@@ -1,5 +1,5 @@
 # kafka-app
-A simple app to use Kafka. The points-stream folder has one file to send messages to another file that saves the changes from these messages in the database. These files send and receive messages to update a customer's points.
+A simple app to use Kafka. The app send and receive messages to update a customer's points in the DB.
 
 ## Development
 Install Postgres
